@@ -34,3 +34,7 @@ export default {
 Follow image build and push commands from [Pushing a Docker image](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html)
 
 # Project Start Step
+
+```
+npm start
+```
