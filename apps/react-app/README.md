@@ -42,3 +42,7 @@ npm install or yarn install
 ```
 npm run dev or npm start
 ```
+
+```
+npm run build
+```
